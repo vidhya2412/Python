@@ -1,5 +1,6 @@
 # Python
 
-Verify if the Python is installed
+**Verify if the Python is installed
+**
     python --version
   
