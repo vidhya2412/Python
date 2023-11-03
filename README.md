@@ -1,2 +1,5 @@
 # Python
-Used for performing python details
+
+Verify if the Python is installed
+    python --version
+  
